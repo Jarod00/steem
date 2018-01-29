@@ -1,5 +1,8 @@
 #include <steemit/app/application.hpp>
 
+#made by Jarod
+#ihr seid scheiße
+
 #include <steemit/witness/witness_plugin.hpp>
 #include <steemit/manifest/plugins.hpp>
 
